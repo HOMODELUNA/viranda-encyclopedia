@@ -15,7 +15,7 @@ a,i,u,e,o
 |---|---|---| ---|
 |p,b |t,d| k,g | h|
 |m|n| | |
-|f,v |s,z| sh/ʃ/ ,zh /ʒ/| 
+|f,v |s,z| c/ʃ/ ,j /ʒ/| 
 |w |l,r| y/j/| |
 
 - p/b 的对立同时有清浊对立和送气不送气对立,即推荐p读 /p<sup>h</sup>/,b 读/b/
@@ -52,4 +52,4 @@ m,n
 f,v s,z sh/ʃ/ ,zh /ʒ/ 
 w l,r y/j/ 
 
-a,b,d,e,f,g,h,i,k,l,m,n,o,p,r,s,sh/ʃ/,t,u,v,w,y/j/,z,zh/ʒ/
+a,b,c/ʃ/,d,e,f,g,h,i,j/ʒ/,k,l,m,n,o,p,r,s,t,u,v,w,y/j/,z
